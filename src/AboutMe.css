@@ -1,0 +1,47 @@
+.about-me-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 1000px;
+    margin: 0 auto;
+    gap: 40px;
+}
+
+.about-me h2,
+.projects h2 {
+    font-size: 24px;
+    font-weight: 600;
+    text-transform: uppercase;
+    padding: 50px 0;
+    border-bottom: 1px solid #e5ebf2;
+    text-align: center;
+}
+
+.about-me h3 {
+    font-size: 18px;
+    color: #3c4258;
+    text-transform: initial;
+    line-height: 1.8;
+    padding-top: 50px;
+}
+
+.about-me p {
+    font-size: 16px;
+    color: #999fb3;
+    padding: 0px 0 10px;
+
+}
+
+.about-image {
+    max-height: 400px;
+    width: auto;
+}
+
+.social-icons {
+    text-align: center;
+}
+
+.social-icons a {
+    margin: 0 10px;
+    color: #37436D;
+}
