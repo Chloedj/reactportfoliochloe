@@ -45,3 +45,21 @@
     margin: 0 10px;
     color: #37436D;
 }
+
+@media screen and (max-width: 768px) {
+    .about-image {
+            display: none;
+        }
+
+        .about-me-content {
+        text-align: center;
+        gap: 0;
+    }
+
+    .about-me h2 {
+        padding-bottom: 0px;
+        ;
+    }
+
+
+}
