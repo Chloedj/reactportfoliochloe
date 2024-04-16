@@ -11,7 +11,7 @@ const projectsData = [
   {
     id: 1,
     title: "Modern UI/UX Responsive Site",
-    description: "a Fully Responsive Website with Modern UI/UX in React JS with Tailwind",
+    description: "A Fully Responsive Website with Modern UI/UX in React JS.",
     imageUrl: gpt3,
     link: "https://monumental-squirrel-eda3bd.netlify.app/",
     technologies: ["fa-html5", "fa-css3-alt", "fa-react"],
@@ -19,7 +19,7 @@ const projectsData = [
   {
     id: 2,
     title: "Modern UI/UX Responsive Site",
-    description: "a Fully Responsive Website with Modern UI/UX in React JS with Tailwind",
+    description: "A Fully Responsive Website with Modern UI/UX in React JS with Tailwind",
     imageUrl: Brainwave,
     link: "https://clinquant-paletas-4cd98f.netlify.app/",
     technologies: ["fa-html5", "fa-css3-alt", "fa-react"],
